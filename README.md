@@ -8,11 +8,11 @@ A blogging app where
 
 ## setting up
 
-- clone project
+- clone project <br/>
 `git clone https://github.com/shloch/Blogging_app_rails`
 
 - enter project directory
-'cd Blogging_app_rails`
+`cd Blogging_app_rails`
 
 -run the database migrations
 `rails db:migrate`
