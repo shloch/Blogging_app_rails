@@ -1,5 +1,10 @@
 
 # Blogging_app_rails
+A blogging app where
+- you can posr articles
+- add tags to the articles
+- view articles by tags
+- comment on the articles
 
 ##setting up
 
