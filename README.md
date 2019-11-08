@@ -14,7 +14,7 @@ A blogging app where
 - enter project directory <br/>
 `cd Blogging_app_rails`
 
--run the database migrations <br/>
+- run the database migrations <br/>
 `rails db:migrate`
 
 - run the application locally (start the rails server) <br/>
@@ -28,4 +28,4 @@ open `http://127.0.0.1:3000` on browser
 ### Requirements
 
 - Rails 6.0.1
--ruby 2.6.2 
+- ruby 2.6.2 
