@@ -6,7 +6,7 @@ A blogging app where
 - view articles by tags
 - comment on the articles
 
-##setting up
+## setting up
 
 - clone project
 `git clone https://github.com/shloch/Blogging_app_rails`
