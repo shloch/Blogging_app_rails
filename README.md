@@ -11,16 +11,16 @@ A blogging app where
 - clone project <br/>
 `git clone https://github.com/shloch/Blogging_app_rails`
 
-- enter project directory
+- enter project directory <br/>
 `cd Blogging_app_rails`
 
--run the database migrations
+-run the database migrations <br/>
 `rails db:migrate`
 
-- run the application locally (start the rails server)
+- run the application locally (start the rails server) <br/>
 `rails server`
 
-- view on your browser
+- view on your browser <br/>
 open `http://127.0.0.1:3000` on browser
 
 - open project with VSCode, edit and open a pull request
